@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="686" height="246" viewBox="0 0 686 246">
+    <g id="Group_1" data-name="Group 1" transform="translate(750 223)">
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="686" height="246" transform="translate(-750 -223)" fill="none"/>
+        <path id="Path_3561" data-name="Path 3561" d="M121.02,1065.03H229.1v36.03H84.99V956.95h36.03Z" transform="translate(-747.99 -1113.8)" fill="#8244ff"/>
+        <path id="Path_3562" data-name="Path 3562" d="M229.1,1065.03h36.03V992.98L229.1,956.95v36.03H157.05v36.03H229.1Z" transform="translate(-747.99 -1113.8)" fill="#8244ff"/>
+        <path id="Path_3563" data-name="Path 3563" d="M121.02,956.95V920.92h72.32l35.5,35.5Z" transform="translate(-747.99 -1113.8)" fill="#8244ff"/>
+        <rect id="Rectangle_2850" data-name="Rectangle 2850" width="18.01" height="18.01" transform="translate(-663 -192.88)" fill="#8244ff"/>
+        <text id="ক্যাপ্টেন" transform="translate(-473.99 -83)" fill="#fff" font-size="109" font-family="HindSiliguri-Bold, Hind Siliguri" font-weight="700"><tspan x="0" y="0">ক্যাপ্টেন</tspan></text>
+        <rect id="Rectangle_2853" data-name="Rectangle 2853" width="212.98" height="4.54" transform="translate(-463.73 -47)" fill="#ff57c3"/>
+        <text id="বাইনারি" transform="translate(-240.99 -34)" fill="#ff57c3" font-size="36" font-family="HindSiliguri-Bold, Hind Siliguri" font-weight="700"><tspan x="0" y="0">বাইনারি</tspan></text>
+    </g>
+</svg>

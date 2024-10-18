@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('/images/bg-img.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: #0C1225;
+    font-family: sans-serif;
+
+
+}
+
+
+
+.small-text{
+    color: #a5b1c2;
+}
+
+/* NavBar */
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-toggler{
+    border-color: white;
+}
+
+/* Hero Section */
+
+.text-light-green{
+    color: #16F8A8;
+}
+
+.text-light-red{
+    color: #F926AE;
+}
+
+.join-btn{
+    color: white;
+    border-color: rgb(106, 90, 205);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.join-btn:hover{
+    color: darkgray;
+    transform: translateY(-5px);
+    border-color: rgb(255, 0, 255);
+}
+
+
+.hero-img{
+    width: 100%; 
+    height: 100%;
+    transition: transform 0.4s ease; 
+}
+
+.hero-img:hover{
+    transform: scale(1.2); 
+}
+
+/* Status section */
+
+
+.card{
+    background: transparent;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-color: rgb(106, 90, 205);  
+}
+
+.card:hover{
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3), 0 0 20px rgba(127, 77, 219, 0.8);
+}
+
+.img-icon{
+    height: 40px;
+}
+
+/* Features-section */
+
+.fs-color{
+    color: #7068E4;
+}
+
+.Features-section{
+    margin-top: 5%;
+}
+
+/* Editor-section */
+
+.Editor-section{
+    margin-top: 5%;
+}
+
+/* Opinion-section */
+
+.Opinion-section{
+    margin-top: 5%; 
+}
+
+/* Contact-section */
+
+.Contact-section{
+    margin-top: 5%;
+}
+
+.form-control{
+    background: transparent;
+    
+}
+ 
+
+
